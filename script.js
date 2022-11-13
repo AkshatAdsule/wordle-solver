@@ -103,7 +103,7 @@ function processWords() {
 
       if (!hasFailed) {
         for (const letter of verifiedLetters) {
-          if (word.indexOf(letter.letter) != letter.index) {
+          if (!(word.indexOf(letter.letter) == letter.index || word.lastIndexOf(letter.letter) == letter.index)) {
             hasFailed = true;
             break;
           }
