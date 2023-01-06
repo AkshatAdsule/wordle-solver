@@ -1,0 +1,23 @@
+name: generate words list
+on:
+  schedule:
+  - cron: "00 09 * * *" # 1am pst
+
+jobs:
+  gen_word_list:
+    name: generate word list
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' #install the python needed
+      - name: run word gen script
+        run: gen_word_list.py
+      - name: commit words file
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: update words list
+          file_pattern: words.js
