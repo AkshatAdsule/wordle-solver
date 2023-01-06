@@ -1,5 +1,6 @@
 name: generate words list
 on:
+  workflow_dispatch:
   schedule:
   - cron: "00 09 * * *" # 1am pst
 
