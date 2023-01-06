@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: '3.10' #install the python needed
       - name: run word gen script
-        run: gen_word_list.py
+        run: python3 gen_word_list.py
       - name: commit words file
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
