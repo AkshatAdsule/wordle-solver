@@ -1,5 +1,4 @@
 const WORDS = [
-	"leapt",
 	"human",
 	"koala",
 	"spire",
@@ -30,4 +29,12 @@ const WORDS = [
 	"stage",
 	"heady",
 	"debug",
+	"giant",
+	"usage",
+	"sound",
+	"salsa",
+	"magic",
+	"cache",
+	"avail",
+	"kiosk",
 ];
