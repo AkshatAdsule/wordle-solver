@@ -1,5 +1,4 @@
 const WORDS = [
-	"elude",
 	"count",
 	"maize",
 	"beefy",
@@ -27,4 +26,9 @@ const WORDS = [
 	"cache",
 	"avail",
 	"kiosk",
+	"sweat",
+	"ruddy",
+	"riper",
+	"vague",
+	"arbor",
 ];
