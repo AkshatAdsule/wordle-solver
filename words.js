@@ -1,5 +1,4 @@
 const WORDS = [
-	"worry",
 	"flirt",
 	"fishy",
 	"crave",
