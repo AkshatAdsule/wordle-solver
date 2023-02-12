@@ -1,5 +1,4 @@
 const WORDS = [
-	"debug",
 	"giant",
 	"usage",
 	"sound",
