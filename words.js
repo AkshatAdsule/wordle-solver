@@ -1,5 +1,7 @@
 const WORDS = [
-	"riper",
 	"vague",
 	"arbor",
+	"fifty",
+	"syrup",
+	"worse",
 ];
