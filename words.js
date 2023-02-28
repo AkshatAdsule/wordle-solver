@@ -1,4 +1,15 @@
 const WORDS = [
-	"worse",
 	"polka",
+	"moose",
+	"above",
+	"squat",
+	"trend",
+	"toxic",
+	"pinky",
+	"horse",
+	"regal",
+	"where",
+	"revel",
+	"extol",
+	"birth",
 ];
