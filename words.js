@@ -1,5 +1,4 @@
 const WORDS = [
-	"moose",
 	"above",
 	"squat",
 	"trend",
