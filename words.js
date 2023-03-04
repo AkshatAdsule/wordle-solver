@@ -1,5 +1,4 @@
 const WORDS = [
-	"squat",
 	"trend",
 	"toxic",
 	"pinky",
@@ -7,6 +6,13 @@ const WORDS = [
 	"regal",
 	"where",
 	"revel",
-	"extol",
+	"email",
 	"birth",
+	"blame",
+	"surly",
+	"sweep",
+	"cider",
+	"mealy",
+	"yacht",
+	"credo",
 ];
