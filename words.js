@@ -1,5 +1,4 @@
 const WORDS = [
-	"toxic",
 	"pinky",
 	"horse",
 	"regal",
