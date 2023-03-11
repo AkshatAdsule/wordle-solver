@@ -1,5 +1,4 @@
 const WORDS = [
-	"revel",
 	"email",
 	"birth",
 	"blame",
@@ -23,4 +22,11 @@ const WORDS = [
 	"every",
 	"march",
 	"stock",
+	"flora",
+	"ratio",
+	"smash",
+	"leafy",
+	"locus",
+	"ledge",
+	"snafu",
 ];
