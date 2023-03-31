@@ -1,5 +1,4 @@
 const WORDS = [
-	"bread",
 	"every",
 	"march",
 	"stock",
