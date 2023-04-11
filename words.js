@@ -1,7 +1,7 @@
 const WORDS = [
-	"under",
 	"qualm",
 	"borax",
+	"carat",
 	"thief",
 	"agony",
 	"dwelt",
