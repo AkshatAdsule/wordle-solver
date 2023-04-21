@@ -1,5 +1,4 @@
 const WORDS = [
-	"plate",
 	"kayak",
 	"broke",
 	"unzip",
@@ -31,4 +30,11 @@ const WORDS = [
 	"grief",
 	"flask",
 	"brash",
+	"igloo",
+	"clerk",
+	"utter",
+	"bagel",
+	"swine",
+	"ramen",
+	"skimp",
 ];
