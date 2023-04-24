@@ -1,5 +1,4 @@
 const WORDS = [
-	"unzip",
 	"ditto",
 	"joker",
 	"metro",
