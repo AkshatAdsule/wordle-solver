@@ -1,5 +1,4 @@
 const WORDS = [
-	"sulky",
 	"horde",
 	"guppy",
 	"below",
