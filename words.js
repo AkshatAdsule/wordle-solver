@@ -1,5 +1,4 @@
 const WORDS = [
-	"below",
 	"anger",
 	"ghoul",
 	"aglow",
@@ -25,8 +24,16 @@ const WORDS = [
 	"skimp",
 	"mouse",
 	"kneel",
+	"jazzy",
 	"might",
 	"humid",
 	"nanny",
 	"beast",
+	"ennui",
+	"scout",
+	"hater",
+	"crumb",
+	"balsa",
+	"again",
+	"guard",
 ];
