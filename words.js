@@ -1,5 +1,4 @@
 const WORDS = [
-	"broom",
 	"snack",
 	"acrid",
 	"scarf",
@@ -31,4 +30,11 @@ const WORDS = [
 	"balsa",
 	"again",
 	"guard",
+	"wrong",
+	"plunk",
+	"crime",
+	"maybe",
+	"strap",
+	"ranch",
+	"shyly",
 ];
