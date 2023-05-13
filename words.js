@@ -1,5 +1,4 @@
 const WORDS = [
-	"snack",
 	"acrid",
 	"scarf",
 	"canoe",
@@ -18,8 +17,8 @@ const WORDS = [
 	"skimp",
 	"mouse",
 	"kneel",
+	"agile",
 	"jazzy",
-	"might",
 	"humid",
 	"nanny",
 	"beast",
