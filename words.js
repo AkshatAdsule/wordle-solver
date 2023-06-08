@@ -1,5 +1,4 @@
 const WORDS = [
-	"hater",
 	"crumb",
 	"balsa",
 	"again",
@@ -25,4 +24,11 @@ const WORDS = [
 	"straw",
 	"bleep",
 	"mossy",
+	"hotel",
+	"irate",
+	"venom",
+	"windy",
+	"donut",
+	"cower",
+	"enter",
 ];
