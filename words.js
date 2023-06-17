@@ -1,5 +1,4 @@
 const WORDS = [
-	"strap",
 	"ranch",
 	"shyly",
 	"kazoo",
@@ -10,7 +9,7 @@ const WORDS = [
 	"grand",
 	"rodeo",
 	"guest",
-	"droop",
+	"about",
 	"tract",
 	"diner",
 	"straw",
@@ -30,4 +29,11 @@ const WORDS = [
 	"fiend",
 	"crone",
 	"diode",
+	"droop",
+	"flyer",
+	"tonic",
+	"flank",
+	"burly",
+	"froze",
+	"whale",
 ];
