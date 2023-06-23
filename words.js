@@ -1,5 +1,4 @@
 const WORDS = [
-	"taste",
 	"covet",
 	"grand",
 	"rodeo",
@@ -18,8 +17,17 @@ const WORDS = [
 	"cower",
 	"enter",
 	"folly",
+	"earth",
 	"whirl",
 	"barge",
 	"fiend",
 	"crone",
+	"topaz",
+	"droop",
+	"flyer",
+	"tonic",
+	"flank",
+	"burly",
+	"froze",
+	"whale",
 ];
