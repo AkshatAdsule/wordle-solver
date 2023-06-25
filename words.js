@@ -1,5 +1,4 @@
 const WORDS = [
-	"grand",
 	"rodeo",
 	"guest",
 	"about",
