@@ -1,5 +1,4 @@
 const WORDS = [
-	"topaz",
 	"droop",
 	"flyer",
 	"tonic",
