@@ -1,5 +1,4 @@
 const WORDS = [
-	"flank",
 	"burly",
 	"froze",
 	"whale",
@@ -31,7 +30,6 @@ const WORDS = [
 	"exact",
 	"magma",
 	"quest",
-	"genie",
 	"spice",
 	"verve",
 	"wordy",
