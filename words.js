@@ -1,6 +1,4 @@
 const WORDS = [
-	"ethos",
-	"curly",
 	"bathe",
 	"style",
 	"tenth",
