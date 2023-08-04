@@ -1,5 +1,4 @@
 const WORDS = [
-	"party",
 	"chart",
 	"anode",
 	"polyp",
