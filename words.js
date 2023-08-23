@@ -1,5 +1,4 @@
 const WORDS = [
-	"spice",
 	"verve",
 	"wordy",
 	"ocean",
@@ -26,4 +25,11 @@ const WORDS = [
 	"exert",
 	"angel",
 	"music",
+	"frank",
+	"close",
+	"snare",
+	"stone",
+	"brush",
+	"carol",
+	"right",
 ];
