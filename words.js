@@ -1,5 +1,4 @@
 const WORDS = [
-	"verve",
 	"wordy",
 	"ocean",
 	"choir",
