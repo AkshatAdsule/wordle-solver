@@ -1,5 +1,4 @@
 const WORDS = [
-	"caper",
 	"audio",
 	"bride",
 	"space",
@@ -26,4 +25,11 @@ const WORDS = [
 	"brush",
 	"carol",
 	"right",
+	"rocky",
+	"loyal",
+	"smile",
+	"coach",
+	"azure",
+	"daddy",
+	"beret",
 ];
