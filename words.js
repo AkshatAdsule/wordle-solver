@@ -1,5 +1,4 @@
 const WORDS = [
-	"birch",
 	"gnash",
 	"dwell",
 	"rouse",
@@ -26,4 +25,11 @@ const WORDS = [
 	"azure",
 	"daddy",
 	"beret",
+	"merry",
+	"while",
+	"spurt",
+	"bunch",
+	"chime",
+	"viola",
+	"binge",
 ];
