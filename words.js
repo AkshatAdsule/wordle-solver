@@ -1,5 +1,4 @@
 const WORDS = [
-	"rocky",
 	"loyal",
 	"smile",
 	"coach",
