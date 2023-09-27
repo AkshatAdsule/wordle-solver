@@ -1,5 +1,4 @@
 const WORDS = [
-	"loyal",
 	"smile",
 	"coach",
 	"azure",
@@ -26,4 +25,11 @@ const WORDS = [
 	"occur",
 	"smirk",
 	"given",
+	"tempo",
+	"cause",
+	"retry",
+	"pique",
+	"noble",
+	"mason",
+	"phony",
 ];
