@@ -1,5 +1,4 @@
 const WORDS = [
-	"smile",
 	"coach",
 	"azure",
 	"daddy",
@@ -19,8 +18,8 @@ const WORDS = [
 	"agent",
 	"leaky",
 	"graph",
-	"reedy",
-	"demur",
+	"adult",
+	"mercy",
 	"splat",
 	"occur",
 	"smirk",
