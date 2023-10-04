@@ -1,5 +1,4 @@
 const WORDS = [
-	"while",
 	"spurt",
 	"bunch",
 	"chime",
@@ -26,4 +25,11 @@ const WORDS = [
 	"noble",
 	"mason",
 	"phony",
+	"grail",
+	"bleak",
+	"noise",
+	"until",
+	"ardor",
+	"mania",
+	"flare",
 ];
