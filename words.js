@@ -1,5 +1,4 @@
 const WORDS = [
-	"agent",
 	"leaky",
 	"graph",
 	"adult",
