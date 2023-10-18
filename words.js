@@ -1,5 +1,4 @@
 const WORDS = [
-	"adult",
 	"mercy",
 	"splat",
 	"occur",
@@ -26,4 +25,11 @@ const WORDS = [
 	"leash",
 	"toddy",
 	"meant",
+	"green",
+	"sassy",
+	"sight",
+	"trust",
+	"tardy",
+	"think",
+	"queue",
 ];
