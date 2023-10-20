@@ -1,5 +1,4 @@
 const WORDS = [
-	"splat",
 	"occur",
 	"smirk",
 	"given",
@@ -22,7 +21,7 @@ const WORDS = [
 	"ninja",
 	"glaze",
 	"leash",
-	"toddy",
+	"actor",
 	"meant",
 	"green",
 	"sassy",
