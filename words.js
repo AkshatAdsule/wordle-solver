@@ -1,5 +1,4 @@
 const WORDS = [
-	"pique",
 	"noble",
 	"mason",
 	"phony",
