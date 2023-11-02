@@ -1,5 +1,4 @@
 const WORDS = [
-	"noise",
 	"until",
 	"ardor",
 	"mania",
@@ -25,4 +24,11 @@ const WORDS = [
 	"throw",
 	"guide",
 	"solid",
+	"tawny",
+	"scope",
+	"sushi",
+	"resin",
+	"taken",
+	"genre",
+	"adapt",
 ];
