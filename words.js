@@ -1,5 +1,4 @@
 const WORDS = [
-	"until",
 	"ardor",
 	"mania",
 	"flare",
