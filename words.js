@@ -1,5 +1,4 @@
 const WORDS = [
-	"trade",
 	"limit",
 	"ninja",
 	"glaze",
