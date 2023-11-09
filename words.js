@@ -1,5 +1,4 @@
 const WORDS = [
-	"ninja",
 	"glaze",
 	"leash",
 	"actor",
@@ -25,4 +24,11 @@ const WORDS = [
 	"taken",
 	"genre",
 	"adapt",
+	"worst",
+	"young",
+	"woman",
+	"sleep",
+	"sharp",
+	"shift",
+	"chain",
 ];
