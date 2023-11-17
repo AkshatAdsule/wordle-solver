@@ -1,5 +1,4 @@
 const WORDS = [
-	"trust",
 	"tardy",
 	"think",
 	"queue",
@@ -24,4 +23,11 @@ const WORDS = [
 	"sharp",
 	"shift",
 	"chain",
+	"house",
+	"these",
+	"spent",
+	"would",
+	"topic",
+	"globe",
+	"bacon",
 ];
