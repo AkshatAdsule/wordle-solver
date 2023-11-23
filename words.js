@@ -1,5 +1,4 @@
 const WORDS = [
-	"pixel",
 	"queen",
 	"throw",
 	"guide",
@@ -25,4 +24,11 @@ const WORDS = [
 	"topic",
 	"globe",
 	"bacon",
+	"funny",
+	"table",
+	"small",
+	"built",
+	"touch",
+	"slope",
+	"grace",
 ];
