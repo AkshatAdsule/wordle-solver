@@ -1,5 +1,4 @@
 const WORDS = [
-	"queen",
 	"throw",
 	"guide",
 	"solid",
