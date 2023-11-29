@@ -1,5 +1,4 @@
 const WORDS = [
-	"scope",
 	"sushi",
 	"resin",
 	"taken",
@@ -26,4 +25,11 @@ const WORDS = [
 	"touch",
 	"slope",
 	"grace",
+	"evoke",
+	"phone",
+	"daisy",
+	"learn",
+	"child",
+	"three",
+	"salty",
 ];
