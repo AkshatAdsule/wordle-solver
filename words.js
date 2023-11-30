@@ -1,5 +1,4 @@
 const WORDS = [
-	"sushi",
 	"resin",
 	"taken",
 	"genre",
