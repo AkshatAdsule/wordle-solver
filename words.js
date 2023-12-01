@@ -1,5 +1,4 @@
 const WORDS = [
-	"resin",
 	"taken",
 	"genre",
 	"adapt",
