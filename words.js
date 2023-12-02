@@ -1,5 +1,4 @@
 const WORDS = [
-	"taken",
 	"genre",
 	"adapt",
 	"worst",
