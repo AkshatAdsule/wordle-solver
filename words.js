@@ -1,5 +1,4 @@
 const WORDS = [
-	"genre",
 	"adapt",
 	"worst",
 	"young",
