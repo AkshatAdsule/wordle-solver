@@ -1,5 +1,4 @@
 const WORDS = [
-	"adapt",
 	"worst",
 	"young",
 	"woman",
