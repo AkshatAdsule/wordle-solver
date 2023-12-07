@@ -1,5 +1,4 @@
 const WORDS = [
-	"woman",
 	"sleep",
 	"sharp",
 	"shift",
@@ -25,4 +24,11 @@ const WORDS = [
 	"child",
 	"three",
 	"salty",
+	"mural",
+	"aging",
+	"twirl",
+	"scant",
+	"lunge",
+	"cable",
+	"stony",
 ];
