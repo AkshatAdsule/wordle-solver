@@ -1,5 +1,4 @@
 const WORDS = [
-	"spent",
 	"would",
 	"topic",
 	"globe",
@@ -25,4 +24,11 @@ const WORDS = [
 	"lunge",
 	"cable",
 	"stony",
+	"final",
+	"liner",
+	"threw",
+	"brief",
+	"route",
+	"heard",
+	"doing",
 ];
