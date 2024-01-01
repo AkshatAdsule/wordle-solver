@@ -1,5 +1,4 @@
 const WORDS = [
-	"salty",
 	"mural",
 	"aging",
 	"twirl",
