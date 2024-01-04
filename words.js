@@ -1,5 +1,4 @@
 const WORDS = [
-	"twirl",
 	"scant",
 	"lunge",
 	"cable",
@@ -25,4 +24,11 @@ const WORDS = [
 	"aloof",
 	"snake",
 	"ember",
+	"leggy",
+	"expel",
+	"bulky",
+	"alive",
+	"cleft",
+	"micro",
+	"verge",
 ];
