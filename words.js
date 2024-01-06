@@ -1,5 +1,4 @@
 const WORDS = [
-	"lunge",
 	"cable",
 	"stony",
 	"final",
