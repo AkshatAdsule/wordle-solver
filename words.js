@@ -1,5 +1,4 @@
 const WORDS = [
-	"final",
 	"liner",
 	"threw",
 	"brief",
