@@ -1,5 +1,4 @@
 const WORDS = [
-	"brief",
 	"route",
 	"heard",
 	"doing",
@@ -24,4 +23,11 @@ const WORDS = [
 	"cleft",
 	"micro",
 	"verge",
+	"repel",
+	"which",
+	"after",
+	"place",
+	"stiff",
+	"fried",
+	"never",
 ];
