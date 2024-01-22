@@ -1,5 +1,4 @@
 const WORDS = [
-	"north",
 	"tweak",
 	"still",
 	"relic",
