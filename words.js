@@ -1,5 +1,4 @@
 const WORDS = [
-	"block",
 	"aloof",
 	"snake",
 	"ember",
@@ -24,4 +23,11 @@ const WORDS = [
 	"stash",
 	"psalm",
 	"ridge",
+	"price",
+	"match",
+	"build",
+	"heavy",
+	"apart",
+	"piper",
+	"smith",
 ];
