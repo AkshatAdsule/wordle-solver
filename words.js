@@ -1,5 +1,4 @@
 const WORDS = [
-	"bulky",
 	"alive",
 	"cleft",
 	"micro",
@@ -25,4 +24,11 @@ const WORDS = [
 	"apart",
 	"piper",
 	"smith",
+	"often",
+	"sense",
+	"devil",
+	"image",
+	"forty",
+	"taker",
+	"state",
 ];
