@@ -1,5 +1,4 @@
 const WORDS = [
-	"cleft",
 	"micro",
 	"verge",
 	"repel",
