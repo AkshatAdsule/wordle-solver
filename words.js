@@ -1,5 +1,4 @@
 const WORDS = [
-	"micro",
 	"verge",
 	"repel",
 	"which",
