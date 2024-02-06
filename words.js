@@ -1,5 +1,4 @@
 const WORDS = [
-	"repel",
 	"which",
 	"after",
 	"place",
