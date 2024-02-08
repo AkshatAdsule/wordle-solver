@@ -1,5 +1,4 @@
 const WORDS = [
-	"after",
 	"place",
 	"stiff",
 	"fried",
@@ -23,6 +22,13 @@ const WORDS = [
 	"devil",
 	"image",
 	"forty",
-	"taker",
+	"urban",
 	"state",
+	"flame",
+	"hunch",
+	"teary",
+	"clone",
+	"early",
+	"cheer",
+	"grasp",
 ];
