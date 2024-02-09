@@ -1,5 +1,4 @@
 const WORDS = [
-	"place",
 	"stiff",
 	"fried",
 	"never",
