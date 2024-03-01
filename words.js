@@ -1,5 +1,4 @@
 const WORDS = [
-	"image",
 	"forty",
 	"urban",
 	"state",
