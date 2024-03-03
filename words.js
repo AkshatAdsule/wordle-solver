@@ -1,5 +1,4 @@
 const WORDS = [
-	"urban",
 	"state",
 	"flame",
 	"hunch",
