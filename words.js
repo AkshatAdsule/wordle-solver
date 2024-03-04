@@ -1,5 +1,4 @@
 const WORDS = [
-	"state",
 	"flame",
 	"hunch",
 	"teary",
