@@ -1,5 +1,4 @@
 const WORDS = [
-	"hunch",
 	"teary",
 	"clone",
 	"early",
@@ -26,4 +25,11 @@ const WORDS = [
 	"realm",
 	"force",
 	"taboo",
+	"frond",
+	"serum",
+	"plait",
+	"climb",
+	"wrist",
+	"finch",
+	"LASER",
 ];
