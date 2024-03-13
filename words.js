@@ -1,5 +1,4 @@
 const WORDS = [
-	"heave",
 	"local",
 	"since",
 	"erupt",
@@ -26,4 +25,11 @@ const WORDS = [
 	"wrist",
 	"finch",
 	"LASER",
+	"breed",
+	"merge",
+	"broth",
+	"louse",
+	"whiny",
+	"steel",
+	"blimp",
 ];
