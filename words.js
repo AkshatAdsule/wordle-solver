@@ -1,5 +1,4 @@
 const WORDS = [
-	"local",
 	"since",
 	"erupt",
 	"toxin",
