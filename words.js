@@ -1,5 +1,4 @@
 const WORDS = [
-	"erupt",
 	"toxin",
 	"snort",
 	"spelt",
