@@ -1,5 +1,4 @@
 const WORDS = [
-	"spelt",
 	"abide",
 	"lingo",
 	"shade",
