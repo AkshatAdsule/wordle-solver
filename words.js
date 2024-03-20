@@ -1,5 +1,4 @@
 const WORDS = [
-	"abide",
 	"lingo",
 	"shade",
 	"decay",
@@ -26,4 +25,11 @@ const WORDS = [
 	"whiny",
 	"steel",
 	"blimp",
+	"equip",
+	"shank",
+	"tithe",
+	"voila",
+	"raise",
+	"lucid",
+	"jolly",
 ];
