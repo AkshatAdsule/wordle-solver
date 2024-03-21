@@ -1,5 +1,4 @@
 const WORDS = [
-	"lingo",
 	"shade",
 	"decay",
 	"risen",
@@ -17,7 +16,7 @@ const WORDS = [
 	"climb",
 	"wrist",
 	"finch",
-	"LASER",
+	"laser",
 	"breed",
 	"merge",
 	"broth",
