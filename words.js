@@ -1,5 +1,4 @@
 const WORDS = [
-	"stung",
 	"speak",
 	"realm",
 	"force",
@@ -10,7 +9,6 @@ const WORDS = [
 	"climb",
 	"wrist",
 	"finch",
-	"laser",
 	"breed",
 	"merge",
 	"broth",
@@ -21,9 +19,4 @@ const WORDS = [
 	"equip",
 	"shank",
 	"tithe",
-	"voila",
-	"raise",
-	"lucid",
-	"jolly",
-	"brand",
 ];
