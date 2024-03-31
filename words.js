@@ -1,5 +1,4 @@
 const WORDS = [
-	"force",
 	"taboo",
 	"frond",
 	"serum",
