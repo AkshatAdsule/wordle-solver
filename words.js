@@ -1,5 +1,4 @@
 const WORDS = [
-	"climb",
 	"wrist",
 	"finch",
 	"voila",
@@ -19,6 +18,7 @@ const WORDS = [
 	"jolly",
 	"laser",
 	"rover",
+	"overt",
 	"intro",
 	"vapid",
 	"gleam",
