@@ -1,5 +1,4 @@
 const WORDS = [
-	"voila",
 	"breed",
 	"merge",
 	"broth",
