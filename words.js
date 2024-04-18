@@ -1,5 +1,4 @@
 const WORDS = [
-	"tithe",
 	"facet",
 	"raise",
 	"lucid",
@@ -20,9 +19,16 @@ const WORDS = [
 	"decal",
 	"shave",
 	"musty",
-	"salvo",
+	"pious",
 	"jerky",
 	"media",
 	"tidal",
 	"outer",
+	"cumin",
+	"amass",
+	"pinch",
+	"stall",
+	"tutor",
+	"briny",
+	"hitch",
 ];
