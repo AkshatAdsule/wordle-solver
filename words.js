@@ -1,5 +1,4 @@
 const WORDS = [
-	"intro",
 	"vapid",
 	"gleam",
 	"prune",
@@ -24,4 +23,11 @@ const WORDS = [
 	"tutor",
 	"briny",
 	"hitch",
+	"nicer",
+	"dingo",
+	"exalt",
+	"swish",
+	"glide",
+	"titan",
+	"bevel",
 ];
