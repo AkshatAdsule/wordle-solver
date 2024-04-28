@@ -1,5 +1,4 @@
 const WORDS = [
-	"gleam",
 	"prune",
 	"craft",
 	"prowl",
