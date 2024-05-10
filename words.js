@@ -1,5 +1,4 @@
 const WORDS = [
-	"jerky",
 	"media",
 	"tidal",
 	"outer",
@@ -24,4 +23,11 @@ const WORDS = [
 	"chaos",
 	"basin",
 	"bravo",
+	"stark",
+	"groom",
+	"organ",
+	"ether",
+	"melon",
+	"hence",
+	"kappa",
 ];
