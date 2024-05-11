@@ -1,5 +1,4 @@
 const WORDS = [
-	"media",
 	"tidal",
 	"outer",
 	"cumin",
