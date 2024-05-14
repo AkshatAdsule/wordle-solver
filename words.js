@@ -1,5 +1,4 @@
 const WORDS = [
-	"cumin",
 	"amass",
 	"pinch",
 	"stall",
