@@ -1,5 +1,4 @@
 const WORDS = [
-	"amass",
 	"pinch",
 	"stall",
 	"tutor",
@@ -26,4 +25,11 @@ const WORDS = [
 	"melon",
 	"hence",
 	"kappa",
+	"manga",
+	"swung",
+	"deter",
+	"angst",
+	"vault",
+	"proud",
+	"grind",
 ];
