@@ -1,5 +1,4 @@
 const WORDS = [
-	"dingo",
 	"exalt",
 	"swish",
 	"glide",
@@ -26,4 +25,10 @@ const WORDS = [
 	"vault",
 	"proud",
 	"grind",
+	"prior",
+	"cover",
+	"terse",
+	"scent",
+	"paint",
+	"crowd",
 ];
