@@ -1,5 +1,4 @@
 const WORDS = [
-	"bevel",
 	"skier",
 	"minus",
 	"papal",
