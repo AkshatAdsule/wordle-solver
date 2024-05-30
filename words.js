@@ -1,5 +1,4 @@
 const WORDS = [
-	"papal",
 	"gummy",
 	"chaos",
 	"basin",
@@ -10,7 +9,7 @@ const WORDS = [
 	"ether",
 	"melon",
 	"hence",
-	"kappa",
+	"crowd",
 	"manga",
 	"swung",
 	"deter",
@@ -24,5 +23,4 @@ const WORDS = [
 	"scent",
 	"paint",
 	"edict",
-	"crowd",
 ];
