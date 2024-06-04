@@ -1,5 +1,4 @@
 const WORDS = [
-	"stark",
 	"groom",
 	"organ",
 	"ether",
