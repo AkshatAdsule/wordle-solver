@@ -1,5 +1,4 @@
 const WORDS = [
-	"deter",
 	"angst",
 	"vault",
 	"proud",
@@ -23,6 +22,13 @@ const WORDS = [
 	"thigh",
 	"debut",
 	"crush",
-	"dumpy",
+	"deign",
 	"canon",
+	"shape",
+	"blare",
+	"gaunt",
+	"cameo",
+	"jiffy",
+	"enact",
+	"scoff",
 ];
