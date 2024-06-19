@@ -1,5 +1,4 @@
 const WORDS = [
-	"cover",
 	"terse",
 	"scent",
 	"paint",
@@ -17,7 +16,7 @@ const WORDS = [
 	"thigh",
 	"debut",
 	"crush",
-	"deign",
+	"scoff",
 	"canon",
 	"shape",
 	"blare",
@@ -25,5 +24,12 @@ const WORDS = [
 	"cameo",
 	"jiffy",
 	"enact",
-	"scoff",
+	"video",
+	"swoon",
+	"decoy",
+	"quite",
+	"nerdy",
+	"refer",
+	"scalp",
+	"shaft",
 ];
