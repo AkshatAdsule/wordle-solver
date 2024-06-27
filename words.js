@@ -1,5 +1,4 @@
 const WORDS = [
-	"knead",
 	"order",
 	"drove",
 	"zebra",
@@ -24,4 +23,12 @@ const WORDS = [
 	"nerdy",
 	"refer",
 	"shaft",
+	"speck",
+	"cadet",
+	"prong",
+	"forte",
+	"porch",
+	"awash",
+	"juice",
+	"smock",
 ];
