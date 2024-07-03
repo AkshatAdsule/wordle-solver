@@ -1,5 +1,4 @@
 const WORDS = [
-	"inlay",
 	"thigh",
 	"debut",
 	"crush",
