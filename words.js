@@ -1,5 +1,4 @@
 const WORDS = [
-	"thigh",
 	"debut",
 	"crush",
 	"scoff",
@@ -25,4 +24,11 @@ const WORDS = [
 	"awash",
 	"juice",
 	"smock",
+	"super",
+	"feral",
+	"penne",
+	"chalk",
+	"flake",
+	"scale",
+	"lower",
 ];
