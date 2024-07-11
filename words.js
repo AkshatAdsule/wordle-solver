@@ -1,5 +1,4 @@
 const WORDS = [
-	"gaunt",
 	"cameo",
 	"jiffy",
 	"enact",
@@ -25,4 +24,11 @@ const WORDS = [
 	"flake",
 	"scale",
 	"lower",
+	"ensue",
+	"anvil",
+	"macaw",
+	"saucy",
+	"ounce",
+	"medic",
+	"scone",
 ];
