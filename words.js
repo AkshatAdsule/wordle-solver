@@ -1,5 +1,4 @@
 const WORDS = [
-	"enact",
 	"video",
 	"swoon",
 	"decoy",
