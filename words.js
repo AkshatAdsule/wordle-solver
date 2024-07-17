@@ -1,5 +1,4 @@
 const WORDS = [
-	"decoy",
 	"quite",
 	"nerdy",
 	"refer",
