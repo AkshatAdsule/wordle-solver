@@ -1,5 +1,4 @@
 const WORDS = [
-	"quite",
 	"nerdy",
 	"refer",
 	"shaft",
@@ -25,4 +24,11 @@ const WORDS = [
 	"ounce",
 	"medic",
 	"scone",
+	"skiff",
+	"enemy",
+	"shore",
+	"acorn",
+	"brace",
+	"neigh",
+	"storm",
 ];
