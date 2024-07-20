@@ -1,5 +1,4 @@
 const WORDS = [
-	"refer",
 	"shaft",
 	"speck",
 	"cadet",
