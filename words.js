@@ -1,5 +1,4 @@
 const WORDS = [
-	"chalk",
 	"flake",
 	"scale",
 	"lower",
@@ -24,4 +23,11 @@ const WORDS = [
 	"leech",
 	"filet",
 	"skate",
+	"stake",
+	"crown",
+	"lithe",
+	"flunk",
+	"knave",
+	"spout",
+	"mushy",
 ];
