@@ -1,5 +1,4 @@
 const WORDS = [
-	"anvil",
 	"macaw",
 	"saucy",
 	"ounce",
@@ -26,4 +25,11 @@ const WORDS = [
 	"knave",
 	"spout",
 	"mushy",
+	"camel",
+	"faint",
+	"stern",
+	"widen",
+	"rerun",
+	"owner",
+	"drawn",
 ];
