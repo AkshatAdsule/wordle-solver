@@ -1,5 +1,4 @@
 const WORDS = [
-	"saucy",
 	"ounce",
 	"medic",
 	"scone",
