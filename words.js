@@ -1,5 +1,4 @@
 const WORDS = [
-	"leech",
 	"filet",
 	"skate",
 	"stake",
