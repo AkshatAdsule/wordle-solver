@@ -1,5 +1,4 @@
 const WORDS = [
-	"rerun",
 	"owner",
 	"drawn",
 	"debit",
