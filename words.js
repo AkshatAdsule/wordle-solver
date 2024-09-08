@@ -1,5 +1,4 @@
 const WORDS = [
-	"owner",
 	"drawn",
 	"debit",
 	"rebel",
