@@ -1,5 +1,4 @@
 const WORDS = [
-	"rebel",
 	"aisle",
 	"brass",
 	"harsh",
@@ -25,5 +24,12 @@ const WORDS = [
 	"wagon",
 	"title",
 	"miner",
+	"lager",
 	"flour",
+	"joint",
+	"mommy",
+	"carve",
+	"gusty",
+	"stain",
+	"prone",
 ];
