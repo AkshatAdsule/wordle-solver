@@ -1,5 +1,4 @@
 const WORDS = [
-	"beaut",
 	"fully",
 	"press",
 	"smoke",
@@ -26,4 +25,11 @@ const WORDS = [
 	"gusty",
 	"stain",
 	"prone",
+	"gamut",
+	"corer",
+	"grant",
+	"halve",
+	"stint",
+	"fiber",
+	"dicey",
 ];
