@@ -1,5 +1,4 @@
 const WORDS = [
-	"joint",
 	"mommy",
 	"carve",
 	"gusty",
@@ -18,6 +17,7 @@ const WORDS = [
 	"bossy",
 	"frown",
 	"wreak",
+	"sandy",
 	"bawdy",
 	"tunic",
 	"easel",
@@ -25,4 +25,11 @@ const WORDS = [
 	"sixth",
 	"snoop",
 	"blaze",
+	"vinyl",
+	"octet",
+	"truly",
+	"event",
+	"ready",
+	"swell",
+	"inner",
 ];
