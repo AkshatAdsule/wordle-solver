@@ -1,5 +1,4 @@
 const WORDS = [
-	"easel",
 	"weird",
 	"sixth",
 	"snoop",
@@ -25,4 +24,11 @@ const WORDS = [
 	"pearl",
 	"jelly",
 	"twist",
+	"brown",
+	"witch",
+	"slang",
+	"chock",
+	"hippo",
+	"dogma",
+	"tally",
 ];
