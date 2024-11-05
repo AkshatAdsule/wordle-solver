@@ -1,5 +1,4 @@
 const WORDS = [
-	"vinyl",
 	"octet",
 	"truly",
 	"event",
