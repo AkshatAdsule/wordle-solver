@@ -1,5 +1,4 @@
 const WORDS = [
-	"event",
 	"ready",
 	"swell",
 	"inner",
