@@ -1,5 +1,4 @@
 const WORDS = [
-	"ready",
 	"swell",
 	"inner",
 	"stoic",
@@ -8,7 +7,7 @@ const WORDS = [
 	"uvula",
 	"tacky",
 	"visor",
-	"cruel",
+	"tally",
 	"frail",
 	"going",
 	"niche",
@@ -22,7 +21,6 @@ const WORDS = [
 	"chock",
 	"hippo",
 	"dogma",
-	"tally",
 	"guile",
 	"shaky",
 	"crypt",
