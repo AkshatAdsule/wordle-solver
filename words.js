@@ -1,5 +1,4 @@
 const WORDS = [
-	"swell",
 	"inner",
 	"stoic",
 	"flown",
