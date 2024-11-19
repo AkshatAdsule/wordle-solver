@@ -1,5 +1,4 @@
 const WORDS = [
-	"frail",
 	"going",
 	"niche",
 	"spine",
