@@ -1,5 +1,4 @@
 const WORDS = [
-	"niche",
 	"spine",
 	"pearl",
 	"jelly",
@@ -10,6 +9,7 @@ const WORDS = [
 	"chock",
 	"hippo",
 	"dogma",
+	"mauve",
 	"guile",
 	"shaky",
 	"crypt",
@@ -23,5 +23,12 @@ const WORDS = [
 	"vying",
 	"boxer",
 	"drool",
-	"mauve",
+	"funky",
+	"boast",
+	"scowl",
+	"hefty",
+	"stray",
+	"flash",
+	"blade",
+	"brawn",
 ];
