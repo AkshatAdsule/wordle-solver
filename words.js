@@ -1,5 +1,4 @@
 const WORDS = [
-	"witch",
 	"slang",
 	"chock",
 	"hippo",
