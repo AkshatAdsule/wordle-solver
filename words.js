@@ -1,5 +1,4 @@
 const WORDS = [
-	"guile",
 	"shaky",
 	"crypt",
 	"endow",
@@ -27,4 +26,5 @@ const WORDS = [
 	"truce",
 	"decry",
 	"mambo",
+	"eagle",
 ];
