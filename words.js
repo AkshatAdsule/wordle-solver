@@ -1,5 +1,4 @@
 const WORDS = [
-	"hyena",
 	"flung",
 	"patio",
 	"plumb",
