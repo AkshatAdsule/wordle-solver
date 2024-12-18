@@ -1,5 +1,4 @@
 const WORDS = [
-	"scowl",
 	"hefty",
 	"stray",
 	"flash",
@@ -25,5 +24,12 @@ const WORDS = [
 	"wafer",
 	"crawl",
 	"dingy",
+	"total",
+	"cloak",
+	"fancy",
+	"knack",
+	"flint",
+	"prose",
+	"silly",
 	"rower",
 ];
