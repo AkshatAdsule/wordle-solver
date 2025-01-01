@@ -1,5 +1,4 @@
 const WORDS = [
-	"lemur",
 	"nerve",
 	"chose",
 	"cheap",
