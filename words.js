@@ -1,5 +1,4 @@
 const WORDS = [
-	"sprig",
 	"atlas",
 	"draft",
 	"wafer",
