@@ -1,5 +1,4 @@
 const WORDS = [
-	"flint",
 	"prose",
 	"silly",
 	"rower",
@@ -13,8 +12,15 @@ const WORDS = [
 	"shunt",
 	"fever",
 	"udder",
-	"besot",
+	"false",
 	"toast",
-	"cease",
+	"rivet",
 	"chore",
+	"revue",
+	"tooth",
+	"pedal",
+	"pupil",
+	"swath",
+	"steep",
+	"bonus",
 ];
