@@ -1,5 +1,4 @@
 const WORDS = [
-	"rower",
 	"squid",
 	"icing",
 	"reach",
