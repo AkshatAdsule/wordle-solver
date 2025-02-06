@@ -1,5 +1,4 @@
 const WORDS = [
-	"pedal",
 	"pupil",
 	"swath",
 	"steep",
@@ -18,4 +17,11 @@ const WORDS = [
 	"clove",
 	"cream",
 	"otter",
+	"gland",
+	"dryer",
+	"award",
+	"lodge",
+	"fuzzy",
+	"hover",
+	"deity",
 ];
