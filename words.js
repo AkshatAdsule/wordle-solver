@@ -1,5 +1,4 @@
 const WORDS = [
-	"pupil",
 	"swath",
 	"steep",
 	"bonus",
