@@ -1,5 +1,4 @@
 const WORDS = [
-	"suave",
 	"trail",
 	"indie",
 	"madly",
