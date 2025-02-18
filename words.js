@@ -1,5 +1,4 @@
 const WORDS = [
-	"trail",
 	"indie",
 	"madly",
 	"roach",
