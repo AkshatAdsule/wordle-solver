@@ -1,5 +1,4 @@
 const WORDS = [
-	"cream",
 	"otter",
 	"gland",
 	"dryer",
