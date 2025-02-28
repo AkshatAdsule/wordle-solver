@@ -1,5 +1,4 @@
 const WORDS = [
-	"lodge",
 	"fuzzy",
 	"hover",
 	"deity",
@@ -17,4 +16,11 @@ const WORDS = [
 	"piece",
 	"ladle",
 	"stamp",
+	"lasso",
+	"timer",
+	"spunk",
+	"baste",
+	"nudge",
+	"amble",
+	"dopey",
 ];
