@@ -1,5 +1,4 @@
 const WORDS = [
-	"scrum",
 	"alert",
 	"troop",
 	"navel",
@@ -13,9 +12,16 @@ const WORDS = [
 	"stamp",
 	"lasso",
 	"timer",
-	"spunk",
+	"spark",
 	"baste",
 	"nudge",
 	"amble",
 	"dopey",
+	"angle",
+	"shelf",
+	"elbow",
+	"sheet",
+	"verse",
+	"sorry",
+	"quota",
 ];
