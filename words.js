@@ -1,5 +1,4 @@
 const WORDS = [
-	"track",
 	"mango",
 	"chase",
 	"piece",
