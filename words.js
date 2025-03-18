@@ -1,5 +1,4 @@
 const WORDS = [
-	"lasso",
 	"timer",
 	"spark",
 	"baste",
