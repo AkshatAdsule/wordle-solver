@@ -1,5 +1,4 @@
 const WORDS = [
-	"dopey",
 	"angle",
 	"shelf",
 	"elbow",
