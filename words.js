@@ -1,5 +1,4 @@
 const WORDS = [
-	"elbow",
 	"sheet",
 	"verse",
 	"sorry",
@@ -18,4 +17,11 @@ const WORDS = [
 	"arrow",
 	"nurse",
 	"laugh",
+	"crest",
+	"ashen",
+	"moral",
+	"stood",
+	"dirge",
+	"inbox",
+	"patch",
 ];
