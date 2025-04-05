@@ -1,5 +1,4 @@
 const WORDS = [
-	"krill",
 	"foamy",
 	"villa",
 	"hazel",
