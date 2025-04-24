@@ -1,5 +1,4 @@
 const WORDS = [
-	"ozone",
 	"genie",
 	"known",
 	"clash",
@@ -19,4 +18,11 @@ const WORDS = [
 	"yeast",
 	"freak",
 	"bicep",
+	"aware",
+	"bongo",
+	"eager",
+	"fifth",
+	"grown",
+	"livid",
+	"dowel",
 ];
