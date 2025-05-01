@@ -1,5 +1,4 @@
 const WORDS = [
-	"idler",
 	"adept",
 	"whose",
 	"patsy",
@@ -10,7 +9,7 @@ const WORDS = [
 	"balmy",
 	"tripe",
 	"yeast",
-	"freak",
+	"dowel",
 	"bicep",
 	"aware",
 	"bongo",
@@ -18,5 +17,12 @@ const WORDS = [
 	"fifth",
 	"grown",
 	"livid",
-	"dowel",
+	"pitch",
+	"borne",
+	"alarm",
+	"folio",
+	"shuck",
+	"suede",
+	"grift",
+	"drone",
 ];
