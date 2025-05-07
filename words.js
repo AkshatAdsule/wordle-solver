@@ -1,5 +1,4 @@
 const WORDS = [
-	"suite",
 	"macho",
 	"balmy",
 	"tripe",
@@ -20,4 +19,11 @@ const WORDS = [
 	"suede",
 	"grift",
 	"drone",
+	"sport",
+	"polar",
+	"manse",
+	"idiom",
+	"habit",
+	"rough",
+	"quash",
 ];
