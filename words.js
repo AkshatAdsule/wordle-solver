@@ -1,5 +1,4 @@
 const WORDS = [
-	"balmy",
 	"tripe",
 	"yeast",
 	"dowel",
