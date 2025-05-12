@@ -1,5 +1,4 @@
 const WORDS = [
-	"dowel",
 	"bicep",
 	"aware",
 	"bongo",
