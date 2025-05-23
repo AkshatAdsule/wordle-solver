@@ -1,5 +1,4 @@
 const WORDS = [
-	"folio",
 	"shuck",
 	"suede",
 	"grift",
@@ -18,4 +17,11 @@ const WORDS = [
 	"reuse",
 	"lease",
 	"board",
+	"taffy",
+	"plaid",
+	"vixen",
+	"bilge",
+	"ghost",
+	"quail",
+	"petty",
 ];
