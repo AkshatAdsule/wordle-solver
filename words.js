@@ -1,5 +1,4 @@
 const WORDS = [
-	"suede",
 	"grift",
 	"drone",
 	"sport",
