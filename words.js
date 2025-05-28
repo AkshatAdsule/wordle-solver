@@ -1,5 +1,4 @@
 const WORDS = [
-	"sport",
 	"polar",
 	"quash",
 	"idiom",
