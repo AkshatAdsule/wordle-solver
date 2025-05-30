@@ -1,5 +1,4 @@
 const WORDS = [
-	"quash",
 	"idiom",
 	"habit",
 	"rough",
@@ -18,4 +17,11 @@ const WORDS = [
 	"ghost",
 	"quail",
 	"petty",
+	"fritz",
+	"munch",
+	"curio",
+	"taupe",
+	"glade",
+	"thrum",
+	"oddly",
 ];
