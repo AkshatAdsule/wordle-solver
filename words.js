@@ -1,5 +1,4 @@
 const WORDS = [
-	"idiom",
 	"habit",
 	"rough",
 	"preen",
