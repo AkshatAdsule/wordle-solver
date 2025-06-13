@@ -1,5 +1,4 @@
 const WORDS = [
-	"vixen",
 	"bilge",
 	"ghost",
 	"quail",
@@ -18,4 +17,12 @@ const WORDS = [
 	"stump",
 	"witty",
 	"blink",
+	"moldy",
+	"incur",
+	"poppy",
+	"curve",
+	"baler",
+	"ankle",
+	"stilt",
+	"atria",
 ];
