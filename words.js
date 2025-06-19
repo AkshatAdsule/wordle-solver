@@ -1,5 +1,4 @@
 const WORDS = [
-	"munch",
 	"curio",
 	"taupe",
 	"glade",
@@ -17,7 +16,13 @@ const WORDS = [
 	"poppy",
 	"curve",
 	"baler",
-	"ankle",
-	"stilt",
 	"atria",
+	"stilt",
+	"dread",
+	"novel",
+	"jumpy",
+	"brand",
+	"exile",
+	"gnome",
+	"undid",
 ];
