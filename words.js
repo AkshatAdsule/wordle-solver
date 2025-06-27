@@ -1,5 +1,4 @@
 const WORDS = [
-	"offer",
 	"plain",
 	"stump",
 	"witty",
@@ -18,4 +17,11 @@ const WORDS = [
 	"exile",
 	"gnome",
 	"undid",
+	"foist",
+	"nervy",
+	"modal",
+	"loris",
+	"sword",
+	"blank",
+	"tizzy",
 ];
