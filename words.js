@@ -1,5 +1,4 @@
 const WORDS = [
-	"incur",
 	"poppy",
 	"curve",
 	"baler",
