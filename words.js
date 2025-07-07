@@ -1,5 +1,4 @@
 const WORDS = [
-	"atria",
 	"stilt",
 	"dread",
 	"novel",
