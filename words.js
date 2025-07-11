@@ -1,5 +1,4 @@
 const WORDS = [
-	"jumpy",
 	"brand",
 	"exile",
 	"gnome",
@@ -18,4 +17,11 @@ const WORDS = [
 	"haunt",
 	"whole",
 	"savvy",
+	"omega",
+	"assay",
+	"frill",
+	"banjo",
+	"daunt",
+	"lumpy",
+	"rigid",
 ];
