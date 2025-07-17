@@ -1,5 +1,4 @@
 const WORDS = [
-	"nervy",
 	"modal",
 	"loris",
 	"sword",
@@ -19,4 +18,11 @@ const WORDS = [
 	"daunt",
 	"lumpy",
 	"rigid",
+	"stork",
+	"groan",
+	"coral",
+	"imbue",
+	"nasal",
+	"minty",
+	"south",
 ];
