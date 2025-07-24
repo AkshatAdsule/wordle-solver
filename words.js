@@ -1,5 +1,4 @@
 const WORDS = [
-	"water",
 	"quake",
 	"gofer",
 	"haunt",
