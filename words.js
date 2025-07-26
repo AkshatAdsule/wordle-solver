@@ -1,5 +1,4 @@
 const WORDS = [
-	"gofer",
 	"haunt",
 	"whole",
 	"savvy",
