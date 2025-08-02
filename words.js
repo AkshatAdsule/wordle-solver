@@ -1,5 +1,4 @@
 const WORDS = [
-	"banjo",
 	"daunt",
 	"lumpy",
 	"rigid",
