@@ -1,5 +1,4 @@
 const WORDS = [
-	"groan",
 	"coral",
 	"imbue",
 	"nasal",
@@ -19,4 +18,11 @@ const WORDS = [
 	"level",
 	"spore",
 	"mirth",
+	"annex",
+	"tower",
+	"kinky",
+	"graft",
+	"elate",
+	"petal",
+	"union",
 ];
