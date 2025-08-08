@@ -1,5 +1,4 @@
 const WORDS = [
-	"coral",
 	"imbue",
 	"nasal",
 	"minty",
