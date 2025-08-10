@@ -1,5 +1,4 @@
 const WORDS = [
-	"nasal",
 	"minty",
 	"south",
 	"nomad",
