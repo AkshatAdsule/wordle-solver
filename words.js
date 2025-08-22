@@ -1,5 +1,4 @@
 const WORDS = [
-	"extol",
 	"ratty",
 	"union",
 	"spore",
@@ -18,4 +17,11 @@ const WORDS = [
 	"tenor",
 	"chirp",
 	"trick",
+	"pouty",
+	"chair",
+	"throb",
+	"nadir",
+	"noisy",
+	"might",
+	"lefty",
 ];
