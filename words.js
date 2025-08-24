@@ -1,5 +1,4 @@
 const WORDS = [
-	"union",
 	"spore",
 	"mirth",
 	"annex",
