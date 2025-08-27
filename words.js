@@ -1,11 +1,11 @@
 const WORDS = [
-	"annex",
 	"tower",
 	"split",
 	"graft",
 	"elate",
 	"petal",
 	"least",
+	"might",
 	"fetch",
 	"blend",
 	"drift",
@@ -18,6 +18,5 @@ const WORDS = [
 	"throb",
 	"nadir",
 	"noisy",
-	"might",
 	"lefty",
 ];
