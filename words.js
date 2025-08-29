@@ -1,5 +1,4 @@
 const WORDS = [
-	"split",
 	"graft",
 	"elate",
 	"petal",
@@ -17,5 +16,13 @@ const WORDS = [
 	"throb",
 	"nadir",
 	"noisy",
+	"along",
 	"lefty",
+	"teeth",
+	"knife",
+	"later",
+	"defer",
+	"coven",
+	"prawn",
+	"mouth",
 ];
