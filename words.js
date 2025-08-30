@@ -1,5 +1,4 @@
 const WORDS = [
-	"graft",
 	"elate",
 	"petal",
 	"least",
@@ -23,6 +22,6 @@ const WORDS = [
 	"later",
 	"defer",
 	"coven",
-	"prawn",
+	"quill",
 	"mouth",
 ];
