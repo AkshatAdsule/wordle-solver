@@ -1,5 +1,4 @@
 const WORDS = [
-	"might",
 	"fetch",
 	"blend",
 	"drift",
