@@ -1,5 +1,4 @@
 const WORDS = [
-	"blend",
 	"drift",
 	"bulge",
 	"tenor",
@@ -19,4 +18,11 @@ const WORDS = [
 	"coven",
 	"quill",
 	"mouth",
+	"blunt",
+	"drape",
+	"dally",
+	"fritz",
+	"spank",
+	"civil",
+	"geese",
 ];
