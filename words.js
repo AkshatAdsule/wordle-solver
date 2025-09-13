@@ -1,5 +1,4 @@
 const WORDS = [
-	"throb",
 	"nadir",
 	"noisy",
 	"along",
@@ -15,7 +14,14 @@ const WORDS = [
 	"drape",
 	"dally",
 	"fritz",
-	"spank",
 	"civil",
 	"geese",
+	"relay",
+	"width",
+	"spasm",
+	"squib",
+	"plane",
+	"amuse",
+	"nylon",
+	"gooey",
 ];
