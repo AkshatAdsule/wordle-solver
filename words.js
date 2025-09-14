@@ -1,5 +1,4 @@
 const WORDS = [
-	"nadir",
 	"noisy",
 	"along",
 	"lefty",
