@@ -1,5 +1,4 @@
 const WORDS = [
-	"defer",
 	"coven",
 	"quill",
 	"mouth",
