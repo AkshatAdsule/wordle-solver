@@ -1,5 +1,4 @@
 const WORDS = [
-	"coven",
 	"quill",
 	"mouth",
 	"blunt",
