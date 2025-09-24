@@ -1,5 +1,4 @@
 const WORDS = [
-	"mouth",
 	"blunt",
 	"drape",
 	"dally",
@@ -21,4 +20,11 @@ const WORDS = [
 	"beard",
 	"forum",
 	"annoy",
+	"catty",
+	"gross",
+	"haven",
+	"ideal",
+	"limbo",
+	"detox",
+	"spoof",
 ];
