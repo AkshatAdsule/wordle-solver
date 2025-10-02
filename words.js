@@ -1,5 +1,4 @@
 const WORDS = [
-	"spoil",
 	"width",
 	"spasm",
 	"relay",
@@ -20,4 +19,11 @@ const WORDS = [
 	"limbo",
 	"detox",
 	"spoof",
+	"drill",
+	"tuber",
+	"gauge",
+	"plump",
+	"fetid",
+	"holly",
+	"stunt",
 ];
