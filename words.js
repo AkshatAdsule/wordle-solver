@@ -1,5 +1,4 @@
 const WORDS = [
-	"width",
 	"spasm",
 	"relay",
 	"plane",
