@@ -1,5 +1,4 @@
 const WORDS = [
-	"wound",
 	"beard",
 	"forum",
 	"spoof",
