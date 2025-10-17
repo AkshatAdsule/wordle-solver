@@ -1,5 +1,4 @@
 const WORDS = [
-	"catty",
 	"gross",
 	"haven",
 	"ideal",
@@ -20,4 +19,11 @@ const WORDS = [
 	"awoke",
 	"venue",
 	"short",
+	"guise",
+	"peril",
+	"arise",
+	"fugue",
+	"tabby",
+	"gizmo",
+	"deuce",
 ];
