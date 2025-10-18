@@ -1,5 +1,4 @@
 const WORDS = [
-	"gross",
 	"haven",
 	"ideal",
 	"limbo",
