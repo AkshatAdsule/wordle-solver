@@ -1,5 +1,4 @@
 const WORDS = [
-	"stunt",
 	"drill",
 	"tuber",
 	"gauge",
@@ -21,4 +20,11 @@ const WORDS = [
 	"tabby",
 	"gizmo",
 	"deuce",
+	"tinge",
+	"lurid",
+	"clung",
+	"wield",
+	"clamp",
+	"opine",
+	"maker",
 ];
