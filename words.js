@@ -1,5 +1,4 @@
 const WORDS = [
-	"tuber",
 	"gauge",
 	"plump",
 	"fetid",
