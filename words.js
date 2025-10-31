@@ -1,5 +1,4 @@
 const WORDS = [
-	"lathe",
 	"abhor",
 	"motel",
 	"rabid",
@@ -20,4 +19,11 @@ const WORDS = [
 	"clamp",
 	"opine",
 	"maker",
+	"grave",
+	"vowel",
+	"thick",
+	"bunny",
+	"dough",
+	"plead",
+	"hovel",
 ];
