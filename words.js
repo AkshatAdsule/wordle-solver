@@ -1,5 +1,4 @@
 const WORDS = [
-	"guise",
 	"peril",
 	"arise",
 	"fugue",
@@ -20,4 +19,11 @@ const WORDS = [
 	"dough",
 	"plead",
 	"hovel",
+	"remit",
+	"colic",
+	"gruff",
+	"thong",
+	"leach",
+	"cacti",
+	"muggy",
 ];
