@@ -1,5 +1,4 @@
 const WORDS = [
-	"deuce",
 	"tinge",
 	"lurid",
 	"clung",
