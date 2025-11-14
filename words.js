@@ -1,5 +1,4 @@
 const WORDS = [
-	"tinge",
 	"lurid",
 	"clung",
 	"wield",
@@ -16,8 +15,15 @@ const WORDS = [
 	"remit",
 	"colic",
 	"gruff",
-	"thong",
+	"muggy",
 	"leach",
 	"cacti",
-	"muggy",
+	"ninny",
+	"tulip",
+	"among",
+	"waist",
+	"flute",
+	"gravy",
+	"haste",
+	"erect",
 ];
