@@ -1,5 +1,4 @@
 const WORDS = [
-	"clung",
 	"wield",
 	"clamp",
 	"opine",
