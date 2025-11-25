@@ -1,5 +1,4 @@
 const WORDS = [
-	"dough",
 	"plead",
 	"hovel",
 	"remit",
@@ -23,4 +22,13 @@ const WORDS = [
 	"dodgy",
 	"segue",
 	"grass",
+	"rugby",
+	"myrrh",
+	"white",
+	"quilt",
+	"conch",
+	"glint",
+	"spool",
+	"prism",
+	"speed",
 ];
