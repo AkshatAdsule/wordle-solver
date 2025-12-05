@@ -1,5 +1,4 @@
 const WORDS = [
-	"tulip",
 	"among",
 	"waist",
 	"flute",
