@@ -1,5 +1,4 @@
 const WORDS = [
-	"snide",
 	"erase",
 	"guess",
 	"truck",
@@ -23,7 +22,16 @@ const WORDS = [
 	"decor",
 	"siren",
 	"fable",
-	"leant",
+	"proof",
 	"sitar",
 	"posse",
+	"filly",
+	"oomph",
+	"pecan",
+	"blast",
+	"eight",
+	"manic",
+	"quark",
+	"trial",
+	"gumbo",
 ];
