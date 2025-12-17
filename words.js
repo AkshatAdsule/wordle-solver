@@ -1,5 +1,4 @@
 const WORDS = [
-	"segue",
 	"grass",
 	"rugby",
 	"myrrh",
@@ -28,4 +27,13 @@ const WORDS = [
 	"quark",
 	"trial",
 	"gumbo",
+	"avoid",
+	"chasm",
+	"racer",
+	"fiery",
+	"sumac",
+	"waxen",
+	"sully",
+	"cubic",
+	"clink",
 ];
