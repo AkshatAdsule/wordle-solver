@@ -1,5 +1,4 @@
 const WORDS = [
-	"rugby",
 	"myrrh",
 	"white",
 	"quilt",
