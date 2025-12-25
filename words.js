@@ -1,5 +1,4 @@
 const WORDS = [
-	"spool",
 	"prism",
 	"speed",
 	"batch",
