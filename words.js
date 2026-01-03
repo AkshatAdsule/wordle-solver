@@ -1,5 +1,4 @@
 const WORDS = [
-	"proof",
 	"sitar",
 	"posse",
 	"filly",
