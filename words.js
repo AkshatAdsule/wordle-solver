@@ -1,5 +1,4 @@
 const WORDS = [
-	"manic",
 	"quark",
 	"trial",
 	"gumbo",
