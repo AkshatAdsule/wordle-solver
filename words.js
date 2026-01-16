@@ -1,5 +1,4 @@
 const WORDS = [
-	"chasm",
 	"racer",
 	"fiery",
 	"sumac",
@@ -14,4 +13,12 @@ const WORDS = [
 	"dusky",
 	"cruel",
 	"flaky",
+	"jumbo",
+	"allot",
+	"spiny",
+	"cigar",
+	"weigh",
+	"minor",
+	"chide",
+	"ingot",
 ];
