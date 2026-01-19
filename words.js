@@ -1,5 +1,4 @@
 const WORDS = [
-	"sumac",
 	"waxen",
 	"sully",
 	"cubic",
