@@ -1,5 +1,4 @@
 const WORDS = [
-	"clink",
 	"baron",
 	"cliff",
 	"strut",
@@ -12,7 +11,14 @@ const WORDS = [
 	"spiny",
 	"cigar",
 	"weigh",
-	"minor",
 	"chide",
-	"ingot",
+	"swoop",
+	"gavel",
+	"bleat",
+	"embed",
+	"cello",
+	"scene",
+	"vegan",
+	"surge",
+	"mooch",
 ];
