@@ -1,5 +1,4 @@
 const WORDS = [
-	"strut",
 	"freak",
 	"dusky",
 	"cruel",
