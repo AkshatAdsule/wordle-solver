@@ -1,5 +1,4 @@
 const WORDS = [
-	"cruel",
 	"flaky",
 	"jumbo",
 	"allot",
@@ -16,4 +15,11 @@ const WORDS = [
 	"vegan",
 	"surge",
 	"mooch",
+	"bloom",
+	"skull",
+	"roost",
+	"squad",
+	"mogul",
+	"hoist",
+	"stank",
 ];
