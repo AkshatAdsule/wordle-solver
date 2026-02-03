@@ -1,5 +1,4 @@
 const WORDS = [
-	"cigar",
 	"weigh",
 	"chide",
 	"swoop",
