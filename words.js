@@ -1,5 +1,4 @@
 const WORDS = [
-	"cello",
 	"scene",
 	"vegan",
 	"surge",
