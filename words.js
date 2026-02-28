@@ -1,5 +1,4 @@
 const WORDS = [
-	"dizzy",
 	"hydra",
 	"fluke",
 	"slime",
@@ -14,4 +13,11 @@ const WORDS = [
 	"teddy",
 	"smell",
 	"shoal",
+	"ankle",
+	"grade",
+	"drama",
+	"clasp",
+	"amply",
+	"rehab",
+	"eaten",
 ];
