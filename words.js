@@ -1,5 +1,4 @@
 const WORDS = [
-	"sheep",
 	"gunky",
 	"vogue",
 	"lobby",
@@ -14,4 +13,12 @@ const WORDS = [
 	"clasp",
 	"amply",
 	"rehab",
+	"oasis",
+	"slick",
+	"basil",
+	"serif",
+	"brood",
+	"wiser",
+	"befit",
+	"ivory",
 ];
