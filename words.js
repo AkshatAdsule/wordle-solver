@@ -1,5 +1,4 @@
 const WORDS = [
-	"smell",
 	"eaten",
 	"ankle",
 	"grade",
@@ -15,4 +14,12 @@ const WORDS = [
 	"wiser",
 	"befit",
 	"ivory",
+	"afoot",
+	"chump",
+	"comet",
+	"swamp",
+	"fizzy",
+	"sober",
+	"emoji",
+	"sandy",
 ];
