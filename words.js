@@ -1,5 +1,4 @@
 const WORDS = [
-	"ankle",
 	"grade",
 	"drama",
 	"clasp",
