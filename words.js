@@ -1,5 +1,4 @@
 const WORDS = [
-	"amply",
 	"rehab",
 	"oasis",
 	"slick",
@@ -17,4 +16,11 @@ const WORDS = [
 	"sober",
 	"emoji",
 	"sandy",
+	"envoy",
+	"sworn",
+	"dense",
+	"inlet",
+	"laden",
+	"carom",
+	"singe",
 ];
