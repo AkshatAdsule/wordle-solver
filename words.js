@@ -1,5 +1,4 @@
 const WORDS = [
-	"rehab",
 	"oasis",
 	"slick",
 	"basil",
@@ -14,7 +13,6 @@ const WORDS = [
 	"swamp",
 	"fizzy",
 	"sober",
-	"emoji",
 	"sandy",
 	"envoy",
 	"sworn",
