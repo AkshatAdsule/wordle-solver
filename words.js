@@ -1,5 +1,4 @@
 const WORDS = [
-	"slick",
 	"basil",
 	"serif",
 	"brood",
