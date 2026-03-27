@@ -1,5 +1,4 @@
 const WORDS = [
-	"befit",
 	"ivory",
 	"afoot",
 	"chump",
@@ -7,6 +6,7 @@ const WORDS = [
 	"swamp",
 	"fizzy",
 	"sober",
+	"singe",
 	"sandy",
 	"envoy",
 	"sworn",
@@ -14,5 +14,12 @@ const WORDS = [
 	"inlet",
 	"laden",
 	"carom",
-	"singe",
+	"prude",
+	"alley",
+	"elfin",
+	"cycle",
+	"begun",
+	"cubit",
+	"belle",
+	"toady",
 ];
