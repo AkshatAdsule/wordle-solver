@@ -1,5 +1,4 @@
 const WORDS = [
-	"fizzy",
 	"sober",
 	"singe",
 	"sandy",
@@ -17,4 +16,13 @@ const WORDS = [
 	"cubit",
 	"belle",
 	"toady",
+	"stand",
+	"weave",
+	"clump",
+	"snore",
+	"tweet",
+	"drunk",
+	"women",
+	"gloss",
+	"eerie",
 ];
