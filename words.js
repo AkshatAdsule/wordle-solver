@@ -1,5 +1,4 @@
 const WORDS = [
-	"dense",
 	"inlet",
 	"laden",
 	"carom",
@@ -20,4 +19,12 @@ const WORDS = [
 	"women",
 	"gloss",
 	"eerie",
+	"quack",
+	"rural",
+	"crock",
+	"plume",
+	"bring",
+	"puffy",
+	"riser",
+	"latch",
 ];
