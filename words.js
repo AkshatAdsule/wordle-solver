@@ -1,5 +1,4 @@
 const WORDS = [
-	"elfin",
 	"cycle",
 	"begun",
 	"cubit",
