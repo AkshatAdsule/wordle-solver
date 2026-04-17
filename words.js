@@ -1,5 +1,4 @@
 const WORDS = [
-	"cubit",
 	"belle",
 	"toady",
 	"stand",
@@ -19,4 +18,13 @@ const WORDS = [
 	"puffy",
 	"riser",
 	"latch",
+	"liken",
+	"budge",
+	"umbra",
+	"satin",
+	"parka",
+	"newly",
+	"clock",
+	"dowdy",
+	"billy",
 ];
