@@ -1,5 +1,4 @@
 const WORDS = [
-	"weave",
 	"clump",
 	"snore",
 	"tweet",
