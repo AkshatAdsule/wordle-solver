@@ -1,5 +1,4 @@
 const WORDS = [
-	"tweet",
 	"drunk",
 	"women",
 	"gloss",
@@ -20,5 +19,13 @@ const WORDS = [
 	"newly",
 	"clock",
 	"dowdy",
-	"billy",
+	"waver",
+	"creed",
+	"mover",
+	"bylaw",
+	"loath",
+	"dusty",
+	"wreck",
+	"agree",
+	"pshaw",
 ];
