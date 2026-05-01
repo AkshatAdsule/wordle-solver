@@ -1,5 +1,4 @@
 const WORDS = [
-	"crock",
 	"plume",
 	"bring",
 	"puffy",
@@ -21,5 +20,13 @@ const WORDS = [
 	"dusty",
 	"wreck",
 	"agree",
-	"pshaw",
+	"vocal",
+	"chuck",
+	"niece",
+	"visit",
+	"couch",
+	"stuff",
+	"divot",
+	"clang",
+	"smile",
 ];
