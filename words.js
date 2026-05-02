@@ -1,5 +1,4 @@
 const WORDS = [
-	"plume",
 	"bring",
 	"puffy",
 	"riser",
