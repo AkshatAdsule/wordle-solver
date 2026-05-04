@@ -1,5 +1,4 @@
 const WORDS = [
-	"puffy",
 	"riser",
 	"latch",
 	"liken",
