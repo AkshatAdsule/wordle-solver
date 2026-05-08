@@ -1,5 +1,4 @@
 const WORDS = [
-	"budge",
 	"umbra",
 	"satin",
 	"parka",
@@ -23,4 +22,13 @@ const WORDS = [
 	"divot",
 	"clang",
 	"smile",
+	"etude",
+	"chili",
+	"basis",
+	"notch",
+	"alloy",
+	"nobly",
+	"morph",
+	"thumb",
+	"mafia",
 ];
