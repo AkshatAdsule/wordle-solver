@@ -1,5 +1,4 @@
 const WORDS = [
-	"waver",
 	"creed",
 	"mover",
 	"bylaw",
@@ -25,4 +24,16 @@ const WORDS = [
 	"morph",
 	"thumb",
 	"mafia",
+	"wharf",
+	"spitz",
+	"testy",
+	"break",
+	"quell",
+	"sepia",
+	"broil",
+	"amaze",
+	"token",
+	"entry",
+	"emoji",
+	"align",
 ];
