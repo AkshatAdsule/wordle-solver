@@ -1,5 +1,4 @@
 const WORDS = [
-	"mover",
 	"bylaw",
 	"loath",
 	"dusty",
