@@ -1,5 +1,4 @@
 const WORDS = [
-	"agree",
 	"vocal",
 	"chuck",
 	"niece",
@@ -19,7 +18,7 @@ const WORDS = [
 	"thumb",
 	"mafia",
 	"wharf",
-	"spitz",
+	"align",
 	"testy",
 	"break",
 	"quell",
@@ -29,5 +28,12 @@ const WORDS = [
 	"token",
 	"entry",
 	"emoji",
-	"align",
+	"drake",
+	"alibi",
+	"ovate",
+	"curry",
+	"grill",
+	"unity",
+	"acute",
+	"matzo",
 ];
