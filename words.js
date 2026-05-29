@@ -1,5 +1,4 @@
 const WORDS = [
-	"divot",
 	"clang",
 	"smile",
 	"etude",
@@ -29,4 +28,13 @@ const WORDS = [
 	"grill",
 	"unity",
 	"acute",
+	"scoop",
+	"emcee",
+	"crude",
+	"puppy",
+	"demur",
+	"maven",
+	"baton",
+	"pizza",
+	"swami",
 ];
