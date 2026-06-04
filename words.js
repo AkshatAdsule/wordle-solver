@@ -1,5 +1,4 @@
 const WORDS = [
-	"notch",
 	"alloy",
 	"nobly",
 	"morph",
@@ -32,4 +31,14 @@ const WORDS = [
 	"baton",
 	"pizza",
 	"swami",
+	"toddy",
+	"sling",
+	"demon",
+	"amend",
+	"canal",
+	"avian",
+	"clack",
+	"stout",
+	"queer",
+	"pshaw",
 ];
