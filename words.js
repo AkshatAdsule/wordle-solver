@@ -1,5 +1,4 @@
 const WORDS = [
-	"thumb",
 	"mafia",
 	"wharf",
 	"align",
